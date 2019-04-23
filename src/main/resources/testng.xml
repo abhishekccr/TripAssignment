@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Trip Planner Application Test Suite"  >
+  <test name="Trip Planner App Test case" >
+    <classes>
+      
+       <class name="com.trip.qa.testcases.LandingPageTest" />
+    </classes>
+  </test>
+ 
+
+</suite>

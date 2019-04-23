@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Trip Planner Application Test Suite" duration-ms="9399" started-at="2019-04-23T10:09:23Z" finished-at="2019-04-23T10:09:32Z">
+    <groups>
+    </groups>
+    <test name="Trip Planner App Test case" duration-ms="9399" started-at="2019-04-23T10:09:23Z" finished-at="2019-04-23T10:09:32Z">
+      <class name="com.trip.qa.testcases.LandingPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.trip.qa.testcases.LandingPageTest@341b80b2]" name="setup" is-config="true" duration-ms="3090" started-at="2019-04-23T20:09:23Z" finished-at="2019-04-23T20:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SearchOptionstest(java.lang.String, java.lang.String)[pri:0, instance:com.trip.qa.testcases.LandingPageTest@341b80b2]" name="SearchOptionstest" duration-ms="3576" started-at="2019-04-23T20:09:27Z" data-provider="getTripTestData" finished-at="2019-04-23T20:09:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[North Sydney ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Town Hall ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOptionstest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.trip.qa.testcases.LandingPageTest@341b80b2]" name="teardown" is-config="true" duration-ms="2330" started-at="2019-04-23T20:09:30Z" finished-at="2019-04-23T20:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.trip.qa.testcases.LandingPageTest -->
+    </test> <!-- Trip Planner App Test case -->
+  </suite> <!-- Trip Planner Application Test Suite -->
+</testng-results>

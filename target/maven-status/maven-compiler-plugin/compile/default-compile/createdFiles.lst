@@ -1,0 +1,4 @@
+com/trip/qa/pages/LandingPage.class
+com/trip/qa/util/TestUtil.class
+com/trip/qa/pages/SearchResultsPage.class
+com/trip/qa/base/TestBase.class

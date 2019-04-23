@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Trip Planner Application Test Suite]">
+  <test name="Trip Planner App Test case(failed)">
+    <classes>
+      <class name="com.trip.qa.testcases.LandingPageTest">
+        <methods>
+          <include name="FindOptionstest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.trip.qa.testcases.LandingPageTest -->
+    </classes>
+  </test> <!-- Trip Planner App Test case(failed) -->
+</suite> <!-- Failed suite [Trip Planner Application Test Suite] -->
